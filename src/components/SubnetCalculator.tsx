@@ -28,12 +28,12 @@ function ResultCard({ label, value, tooltipContent, onCopy, copied, color = 'cya
   };
 
   const textColors = {
-    green: 'text-green-800',
-    orange: 'text-orange-800',
-    teal: 'text-teal-800',
+    green: 'text-indigo-800',
+    orange: 'text-indigo-800',
+    teal: 'text-indigo-800',
     indigo: 'text-indigo-800',
-    pink: 'text-pink-800',
-    cyan: 'text-cyan-800'
+    pink: 'text-indigo-800',
+    cyan: 'text-indigo-800'
   };
   
   return (
